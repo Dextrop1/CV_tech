@@ -1,0 +1,11 @@
+<?php 
+/* Template Name: Home */
+get_header();?>
+			<img src="<?= get_stylesheet_directory_uri() . '/assets/img/bernardo.png' ?>">
+<p>Cabinet de recrutement Bertolucci</p>
+<p>Spécialisé dans le recrutement de techniciens qualifiés dans le domaine de l'informatique et du numérique</p>
+<button>Candidature Spontanée</button>  <button>Inscription</button>
+
+
+<?php 
+get_footer();?>
